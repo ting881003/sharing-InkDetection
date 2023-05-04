@@ -1,1 +1,1 @@
-# sharing-InkDectection
+# sharing-InkDetection
